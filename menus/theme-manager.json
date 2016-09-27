@@ -1,0 +1,22 @@
+{
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "theme-manager",
+          "submenu": [
+            {
+              "label": "Save Theme",
+              "command": "theme-manager:save-theme"
+            },
+            {
+              "label": "Switch Theme",
+              "command": "theme-manager:switch-theme"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

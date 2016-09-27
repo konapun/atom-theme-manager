@@ -1,0 +1,21 @@
+{
+  "name": "atom-theme-manager",
+  "main": "./lib/index",
+  "version": "0.0.2",
+  "description": "Save UI and Syntax theme combos along with their individual configuration settings",
+  "keywords": [
+    "theme",
+    "manager",
+    "save",
+    "load"
+  ],
+  "repository": "https://github.com/konapun/atom-theme-manager",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "atom-space-pen-views": "^2.2.0"
+  },
+  "devDependencies": {}
+}
