@@ -1,6 +1,6 @@
 # Theme Manager
 
-Save syntax and UI theme combinations (along with individual configurations!) for the UI theme. This will also sync themes in collaboration with [sync-settings](https://atom.io/packages/sync-settings).
+Save syntax and UI theme combinations (along with individual configurations for the UI theme!). This will also sync themes in collaboration with [sync-settings](https://atom.io/packages/sync-settings).
 
 ![Theme Manager in action](https://cloud.githubusercontent.com/assets/498643/18898317/8474a2ba-84f6-11e6-8dd2-7beb48f83988.gif)
 
