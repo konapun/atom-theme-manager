@@ -1,7 +1,7 @@
 {
   "name": "atom-theme-manager",
   "main": "./lib/index",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Save UI and Syntax theme combos along with their individual configuration settings",
   "keywords": [
     "theme",
